@@ -1,3 +1,4 @@
 public class Test {
-    String navn = "hei";
+    String navn = "Vi er i branch Clara";
+
 }
